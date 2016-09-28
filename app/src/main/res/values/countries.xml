@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="countries">
+        <item>Uganda</item>
+        <item>Kenya</item>
+        <item>Tanzania</item>
+        <item>Rwanda</item>
+        <item>Burundi</item>
+        <item>South Sudan</item>
+    </string-array>
+
+</resources>
